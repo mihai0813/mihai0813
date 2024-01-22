@@ -1,4 +1,12 @@
-### Hi there 👋
+👨🏻‍💻 Aspiring Data Analyst.
+
+🎓 BSc Mathematics & Statistics Graduate from [QMUL](https://www.qmul.ac.uk).
+
+🗂️ Completed [AiCore](https://www.theaicore.com) Data Analyst training programme.
+
+🖥️ Experience coding in Python, SQL & R. Additional experience in Microsoft Excel & Power BI.
+
+📈 Microsoft Office Specialist: Excel Associate (Excel & Excel 2019). Credential ID: [bhX4-sFpk](https://www.certiport.com/portal/pages/credentialverification.aspx).
 
 <!--
 **mihai0813/mihai0813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
