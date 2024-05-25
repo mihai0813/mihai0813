@@ -6,6 +6,8 @@
 
 🖥️ Experience coding in Python, SQL & R. Additional experience in Microsoft Excel & Power BI.
 
+📈 Microsoft Certified: Data Analyst Associate (Power BI). Credential: (https://learn.microsoft.com/en-gb/users/mihairaduhustiuc-1435/credentials/137f40ef08d68fea?ref=https%3A%2F%2Fwww.linkedin.com%2F).
+
 📈 Microsoft Office Specialist: Excel Associate (Excel & Excel 2019). Credential ID: [bhX4-sFpk](https://www.certiport.com/portal/pages/credentialverification.aspx).
 
 <!--
